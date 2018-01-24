@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# Pictures2PDF (c) 2007 by HT de Beer (H.T.de.Beer@gmail.com)
+# Pictures2PDF (c) 2007 by HT de Beer (Huub@heerdebeer.org)
 #
 # Version 0 17-9-2007
 #

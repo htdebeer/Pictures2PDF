@@ -3,7 +3,7 @@
 # Create a pdf-document from a set of pictures
 #
 # (c) 2007 by HT de Beer
-#             H.T.de.Beer@gmail.com
+#             Huub@heerdebeer.org
 #
 require 'fileutils'
 require '/home/htdebeer/Pictures2PDF/Picture.rb'
